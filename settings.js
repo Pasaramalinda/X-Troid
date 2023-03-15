@@ -11,17 +11,17 @@ global.doc4 = 'application/zip'
 global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
-global.owner = ['94719225807'] //ur owner number
-global.ownername = "Yuresh Kavindu" //ur owner name
-global.ytname = "HELA CLOUD" //ur yt chanel name
+global.owner = ['94764470310'] //ur owner number
+global.ownername = "𝙥𝙖𝙗𝙖𝙨𝙖𝙧𝙖 𝙢𝙖𝙡𝙞𝙣𝙙𝙖💕" //ur owner name
+global.ytname = "HELA CLOUD💕" //ur yt chanel name
 global.socialm = "X TROID" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kurunegala" //ur location
 
 //bot bomdy __________________________________________________________________
 //ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ්👇 එක දාන්න✏✒
-global.session = "OG1hOUx4ZUg=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
-global.ownernomer = "94719225807" //ur number
-global.premium = ['94719225807'] //ur premium number
+global.session = "YWk0M2lIOFU=" //session Id ඔයාලගෙ ස්කැන් කරපුහම එන කොඩ් එක ඔකට දාන්න
+global.ownernomer = "94764470310" //ur number
+global.premium = ['94764470310'] //ur premium number
 global.botname = 'X TROID' //ur bot name
 global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //ur website to be displayed
